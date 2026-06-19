@@ -1,0 +1,20 @@
+{
+  "name": "almeiyar-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^5.7.5",
+    "framer-motion": "^11.11.9",
+    "lucide-react": "^0.453.0",
+    "mongodb": "^6.9.0",
+    "next": "14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
